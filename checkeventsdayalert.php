@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Check Events Day Alert
- * Plugin URI: https://github.com/RuthIsRoot/Check Events Day Alert/
+ * Plugin URI: https://github.com/RuthIsRoot/Check-Events-Day-Alert/
  * Description: Plugin que contiene un array con información sobre eventos importantes en diferentes paises. Si la fecha de hoy corresponde a algún evento, cada vez que el usuario accede a la página o se mueve por ella se le notifica de esto mediante un alert de JS.
  * Version: 1.0
  * Author: Alex Castella Iniesta
