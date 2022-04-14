@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: FreeComicDay Alert
- * Plugin URI: https://github.com/RuthIsRoot/MyFirstPlugin/tree/main
+ * Plugin URI: https://github.com/RuthIsRoot/FreeComicDay-Alert
  * Description: Este plugin informa al usuario mediante un alert de JS si hoy es el día mundial del FreeComicDay (06/05/2023) al llegar a este día, se le informa al usuario y se le adjunta un enlace donde puede obtener más información.
  * Version: 1.0
  * Author: Alex Castella Iniesta
